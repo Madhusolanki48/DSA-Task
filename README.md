@@ -360,3 +360,15 @@ Subarrays are contiguous parts of an array, and different categories of subarray
    Output: [1, 1, 0]
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0071-simplify-path) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0071-simplify-path) |
+<!---LeetCode Topics End-->
