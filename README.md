@@ -372,5 +372,10 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0155-min-stack) |
 | [1078-remove-outermost-parentheses](https://github.com/Madhusolanki48/DSA-Task-/tree/master/1078-remove-outermost-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
