@@ -374,6 +374,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0071-simplify-path](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/Madhusolanki48/DSA-Task-/tree/master/1078-remove-outermost-parentheses) |
 ## Design
 |  |
@@ -383,6 +384,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
 | ------- |
@@ -391,4 +393,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0496-next-greater-element-i) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
