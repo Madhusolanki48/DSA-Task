@@ -367,6 +367,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0071-simplify-path) |
+| [0131-palindrome-partitioning](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0131-palindrome-partitioning) |
 | [1078-remove-outermost-parentheses](https://github.com/Madhusolanki48/DSA-Task-/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
@@ -414,8 +415,13 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0039-combination-sum](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0078-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
