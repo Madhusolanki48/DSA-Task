@@ -383,6 +383,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0078-subsets) |
 | [0496-next-greater-element-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0735-asteroid-collision) |
 ## Hash Table
@@ -405,4 +406,12 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2050-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
