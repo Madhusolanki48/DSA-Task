@@ -397,4 +397,12 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0735-asteroid-collision) |
+## Math
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2050-count-good-numbers) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
