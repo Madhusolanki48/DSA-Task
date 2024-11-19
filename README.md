@@ -387,6 +387,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0039-combination-sum](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0078-subsets) |
+| [0198-house-robber](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0198-house-robber) |
 | [0496-next-greater-element-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0735-asteroid-collision) |
 ## Hash Table
@@ -424,4 +425,5 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
