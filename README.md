@@ -434,6 +434,11 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0203-remove-linked-list-elements) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Madhusolanki48/DSA-Task-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
