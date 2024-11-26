@@ -373,6 +373,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0071-simplify-path) |
+| [0143-reorder-list](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0735-asteroid-collision) |
@@ -415,6 +416,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0002-add-two-numbers](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0326-power-of-three) |
@@ -442,10 +444,12 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0002-add-two-numbers](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0203-remove-linked-list-elements) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Madhusolanki48/DSA-Task-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
