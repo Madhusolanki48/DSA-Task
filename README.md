@@ -403,6 +403,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0735-asteroid-collision) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
 | ------- |
@@ -412,6 +413,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0342-power-of-four](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Madhusolanki48/DSA-Task-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2050-count-good-numbers](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
@@ -423,6 +425,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0326-power-of-three](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -436,6 +439,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0078-subsets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0342-power-of-four) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
