@@ -409,6 +409,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0002-add-two-numbers](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Madhusolanki48/DSA-Task-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2050-count-good-numbers](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2050-count-good-numbers) |
 ## Recursion
@@ -420,6 +421,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0203-remove-linked-list-elements](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
@@ -433,6 +435,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0078-subsets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
 | ------- |
