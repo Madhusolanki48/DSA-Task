@@ -385,6 +385,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0155-min-stack](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0225-implement-stack-using-queues) |
+| [0969-number-of-recent-calls](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0969-number-of-recent-calls) |
 ## Array
 |  |
 | ------- |
@@ -467,4 +468,9 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0225-implement-stack-using-queues) |
+| [0969-number-of-recent-calls](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
