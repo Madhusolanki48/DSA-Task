@@ -376,6 +376,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0071-simplify-path](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/Madhusolanki48/DSA-Task-/tree/master/1078-remove-outermost-parentheses) |
@@ -383,6 +384,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0225-implement-stack-using-queues) |
 ## Array
 |  |
 | ------- |
@@ -461,4 +463,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0143-reorder-list) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
