@@ -395,6 +395,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0198-house-robber](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0198-house-robber) |
 | [0496-next-greater-element-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0735-asteroid-collision) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -407,6 +408,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0735-asteroid-collision) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2195-time-needed-to-buy-tickets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
@@ -469,6 +471,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0225-implement-stack-using-queues) |
 | [0969-number-of-recent-calls](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0969-number-of-recent-calls) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2195-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
