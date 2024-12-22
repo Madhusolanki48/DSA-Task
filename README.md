@@ -389,6 +389,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0078-subsets) |
@@ -465,6 +466,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0031-next-permutation) |
 | [0143-reorder-list](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0143-reorder-list) |
 ## Queue
 |  |
