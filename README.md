@@ -389,6 +389,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0040-combination-sum-ii) |
@@ -487,4 +488,12 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0045-jump-game-ii](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0055-jump-game) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
