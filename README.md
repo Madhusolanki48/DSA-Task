@@ -394,6 +394,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0039-combination-sum](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0198-house-robber) |
@@ -418,6 +419,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0342-power-of-four) |
@@ -496,4 +498,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
