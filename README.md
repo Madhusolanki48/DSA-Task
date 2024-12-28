@@ -402,6 +402,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0119-pascals-triangle-ii](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0228-summary-ranges) |
+| [0485-max-consecutive-ones](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0735-asteroid-collision) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2195-time-needed-to-buy-tickets) |
