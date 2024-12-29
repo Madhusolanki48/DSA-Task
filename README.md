@@ -402,6 +402,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0119-pascals-triangle-ii](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0228-summary-ranges) |
+| [0463-island-perimeter](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0735-asteroid-collision) |
@@ -509,4 +510,13 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0048-rotate-image) |
+| [0463-island-perimeter](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0463-island-perimeter) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
