@@ -409,6 +409,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0495-teemo-attacking](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0500-keyboard-row) |
+| [0566-reshape-the-matrix](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0735-asteroid-collision) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
@@ -424,6 +425,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0735-asteroid-collision) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2195-time-needed-to-buy-tickets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -518,6 +520,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0048-rotate-image](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0566-reshape-the-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
