@@ -394,6 +394,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0039-combination-sum](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0055-jump-game) |
@@ -451,6 +452,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0039-combination-sum](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0131-palindrome-partitioning) |
