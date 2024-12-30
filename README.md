@@ -401,6 +401,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0055-jump-game](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0198-house-robber) |
@@ -418,6 +419,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0500-keyboard-row) |
 ## Monotonic Stack
@@ -525,6 +527,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0048-rotate-image](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0566-reshape-the-matrix) |
 ## Depth-First Search
