@@ -410,6 +410,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0496-next-greater-element-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0566-reshape-the-matrix) |
+| [0605-can-place-flowers](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0735-asteroid-collision) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
@@ -507,6 +508,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0045-jump-game-ii](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0055-jump-game) |
+| [0605-can-place-flowers](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0605-can-place-flowers) |
 ## Binary Search
 |  |
 | ------- |
