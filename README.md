@@ -400,6 +400,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0051-n-queens](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0198-house-robber) |
@@ -475,6 +476,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0045-jump-game-ii](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0198-house-robber) |
@@ -522,6 +524,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0064-minimum-path-sum) |
 | [0463-island-perimeter](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0566-reshape-the-matrix) |
 ## Depth-First Search
