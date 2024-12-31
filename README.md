@@ -414,6 +414,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0566-reshape-the-matrix](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0643-maximum-average-subarray-i) |
+| [0661-image-smoother](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0661-image-smoother) |
 | [0735-asteroid-collision](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0735-asteroid-collision) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
@@ -530,6 +531,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0073-set-matrix-zeroes](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0661-image-smoother) |
 ## Depth-First Search
 |  |
 | ------- |
