@@ -402,6 +402,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0057-insert-interval](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0198-house-robber) |
@@ -498,6 +499,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0143-reorder-list) |
 ## Queue
 |  |
@@ -544,4 +546,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0643-maximum-average-subarray-i) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
