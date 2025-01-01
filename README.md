@@ -418,6 +418,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0661-image-smoother](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0735-asteroid-collision) |
+| [0777-toeplitz-matrix](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0777-toeplitz-matrix) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
@@ -536,6 +537,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0566-reshape-the-matrix](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0733-flood-fill) |
+| [0777-toeplitz-matrix](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0777-toeplitz-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
