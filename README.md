@@ -370,6 +370,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0131-palindrome-partitioning](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0131-palindrome-partitioning) |
 | [0500-keyboard-row](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0500-keyboard-row) |
 | [0822-unique-morse-code-words](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0822-unique-morse-code-words) |
+| [0841-shortest-distance-to-a-character](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0841-shortest-distance-to-a-character) |
 | [1078-remove-outermost-parentheses](https://github.com/Madhusolanki48/DSA-Task-/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Madhusolanki48/DSA-Task-/tree/master/1250-longest-common-subsequence) |
 ## Stack
@@ -421,6 +422,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0735-asteroid-collision](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0735-asteroid-collision) |
 | [0777-toeplitz-matrix](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0777-toeplitz-matrix) |
 | [0822-unique-morse-code-words](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0822-unique-morse-code-words) |
+| [0841-shortest-distance-to-a-character](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0841-shortest-distance-to-a-character) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
@@ -506,6 +508,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0031-next-permutation](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0143-reorder-list) |
+| [0841-shortest-distance-to-a-character](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0841-shortest-distance-to-a-character) |
 ## Queue
 |  |
 | ------- |
