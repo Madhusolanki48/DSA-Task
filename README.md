@@ -425,6 +425,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0822-unique-morse-code-words](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0841-shortest-distance-to-a-character) |
+| [0890-lemonade-change](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0890-lemonade-change) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
@@ -527,6 +528,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0045-jump-game-ii](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0605-can-place-flowers) |
+| [0890-lemonade-change](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0890-lemonade-change) |
 ## Binary Search
 |  |
 | ------- |
