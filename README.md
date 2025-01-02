@@ -426,6 +426,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0824-number-of-lines-to-write-string](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0841-shortest-distance-to-a-character) |
 | [0890-lemonade-change](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0898-transpose-matrix) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
@@ -444,6 +445,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0495-teemo-attacking](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0735-asteroid-collision) |
+| [0898-transpose-matrix](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0898-transpose-matrix) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2195-time-needed-to-buy-tickets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
@@ -548,6 +550,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0661-image-smoother](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0777-toeplitz-matrix) |
+| [0898-transpose-matrix](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0898-transpose-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
