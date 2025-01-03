@@ -367,6 +367,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0131-palindrome-partitioning) |
 | [0500-keyboard-row](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0500-keyboard-row) |
 | [0822-unique-morse-code-words](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0822-unique-morse-code-words) |
@@ -408,6 +409,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0073-set-matrix-zeroes](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0079-word-search) |
 | [0119-pascals-triangle-ii](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0228-summary-ranges) |
@@ -482,6 +484,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0046-permutations](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
@@ -550,6 +553,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0048-rotate-image](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0661-image-smoother) |
@@ -560,6 +564,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0733-flood-fill) |
 ## Breadth-First Search
