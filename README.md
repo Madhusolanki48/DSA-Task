@@ -432,6 +432,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0898-transpose-matrix](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0919-projection-area-of-3d-shapes) |
 | [0924-fair-candy-swap](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0924-fair-candy-swap) |
+| [0932-monotonic-array](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0932-monotonic-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
