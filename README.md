@@ -373,6 +373,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0822-unique-morse-code-words](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0841-shortest-distance-to-a-character) |
+| [0965-unique-email-addresses](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0965-unique-email-addresses) |
 | [1078-remove-outermost-parentheses](https://github.com/Madhusolanki48/DSA-Task-/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Madhusolanki48/DSA-Task-/tree/master/1250-longest-common-subsequence) |
 ## Stack
@@ -433,6 +434,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0919-projection-area-of-3d-shapes](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0919-projection-area-of-3d-shapes) |
 | [0924-fair-candy-swap](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0924-fair-candy-swap) |
 | [0932-monotonic-array](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0932-monotonic-array) |
+| [0965-unique-email-addresses](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0965-unique-email-addresses) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
@@ -442,6 +444,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0500-keyboard-row](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0500-keyboard-row) |
 | [0822-unique-morse-code-words](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0822-unique-morse-code-words) |
 | [0924-fair-candy-swap](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0924-fair-candy-swap) |
+| [0965-unique-email-addresses](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0965-unique-email-addresses) |
 ## Monotonic Stack
 |  |
 | ------- |
