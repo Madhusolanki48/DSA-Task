@@ -377,6 +377,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0981-delete-columns-to-make-sorted](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0981-delete-columns-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/Madhusolanki48/DSA-Task-/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Madhusolanki48/DSA-Task-/tree/master/1250-longest-common-subsequence) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -447,6 +448,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0822-unique-morse-code-words](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0822-unique-morse-code-words) |
 | [0924-fair-candy-swap](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0924-fair-candy-swap) |
 | [0965-unique-email-addresses](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0965-unique-email-addresses) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -594,4 +596,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0919-projection-area-of-3d-shapes](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0919-projection-area-of-3d-shapes) |
+## Counting
+|  |
+| ------- |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
