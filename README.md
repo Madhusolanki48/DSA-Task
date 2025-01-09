@@ -378,6 +378,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1078-remove-outermost-parentheses](https://github.com/Madhusolanki48/DSA-Task-/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Madhusolanki48/DSA-Task-/tree/master/1250-longest-common-subsequence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Stack
 |  |
 | ------- |
@@ -438,6 +439,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0932-monotonic-array](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0932-monotonic-array) |
 | [0965-unique-email-addresses](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0965-unique-email-addresses) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0981-delete-columns-to-make-sorted) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
@@ -531,6 +533,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0075-sort-colors](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0143-reorder-list) |
 | [0841-shortest-distance-to-a-character](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0841-shortest-distance-to-a-character) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Queue
 |  |
 | ------- |
