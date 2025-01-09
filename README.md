@@ -379,6 +379,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1250-longest-common-subsequence](https://github.com/Madhusolanki48/DSA-Task-/tree/master/1250-longest-common-subsequence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
 | ------- |
@@ -440,6 +441,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0965-unique-email-addresses](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0965-unique-email-addresses) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0981-delete-columns-to-make-sorted) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
