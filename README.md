@@ -380,6 +380,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2128-reverse-prefix-of-word](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
 |  |
 | ------- |
@@ -390,6 +391,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0496-next-greater-element-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/Madhusolanki48/DSA-Task-/tree/master/1078-remove-outermost-parentheses) |
+| [2128-reverse-prefix-of-word](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2128-reverse-prefix-of-word) |
 ## Design
 |  |
 | ------- |
@@ -536,6 +538,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0143-reorder-list](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0143-reorder-list) |
 | [0841-shortest-distance-to-a-character](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0841-shortest-distance-to-a-character) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2128-reverse-prefix-of-word](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2128-reverse-prefix-of-word) |
 ## Queue
 |  |
 | ------- |
