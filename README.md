@@ -381,6 +381,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2128-reverse-prefix-of-word) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Stack
 |  |
 | ------- |
@@ -444,6 +445,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0981-delete-columns-to-make-sorted](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0981-delete-columns-to-make-sorted) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
@@ -466,6 +468,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0566-reshape-the-matrix](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0898-transpose-matrix) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2195-time-needed-to-buy-tickets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
