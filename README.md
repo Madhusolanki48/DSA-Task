@@ -383,6 +383,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2128-reverse-prefix-of-word](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2226-rings-and-rods](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2226-rings-and-rods) |
 ## Stack
 |  |
 | ------- |
@@ -459,6 +460,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0924-fair-candy-swap](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0924-fair-candy-swap) |
 | [0965-unique-email-addresses](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0965-unique-email-addresses) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2226-rings-and-rods](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2226-rings-and-rods) |
 ## Monotonic Stack
 |  |
 | ------- |
