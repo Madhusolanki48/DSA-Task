@@ -382,6 +382,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Stack
 |  |
 | ------- |
@@ -447,6 +448,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2195-time-needed-to-buy-tickets) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
