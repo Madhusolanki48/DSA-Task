@@ -384,6 +384,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2226-rings-and-rods) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Stack
 |  |
 | ------- |
@@ -450,6 +451,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2195-time-needed-to-buy-tickets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -546,6 +548,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0841-shortest-distance-to-a-character](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0841-shortest-distance-to-a-character) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2128-reverse-prefix-of-word) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Queue
 |  |
 | ------- |
