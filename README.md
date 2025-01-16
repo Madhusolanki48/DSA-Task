@@ -425,6 +425,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0119-pascals-triangle-ii](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0228-summary-ranges) |
+| [0239-sliding-window-maximum](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0239-sliding-window-maximum) |
 | [0463-island-perimeter](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0495-teemo-attacking) |
@@ -556,6 +557,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0239-sliding-window-maximum) |
 | [0969-number-of-recent-calls](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0969-number-of-recent-calls) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2195-time-needed-to-buy-tickets) |
 ## Data Stream
@@ -607,6 +609,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0643-maximum-average-subarray-i) |
 ## Sorting
 |  |
@@ -622,4 +625,12 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Madhusolanki48/DSA-Task-/tree/master/2190-count-common-words-with-one-occurrence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Madhusolanki48/DSA-Task-/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
